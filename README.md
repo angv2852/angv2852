@@ -4,7 +4,7 @@ Hi 👋 My name is Angela Sullivan
 Front-end Developer
 -------------------
 
-I started learning code last year. I have successfully completed 4 courses at SheCodes.io and received 4 certifications. I love coding, creating responsive websites, and learning new techniques and applying them to my projects. I am currently enrolled in Zero to Mastery, where I'm learning more in depth about front end development, including advanced JavaScript and I am also learning some back-end development.
+I started learning code last year. I have successfully completed 4 courses at SheCodes.io and received 4 certifications. I love coding, creating responsive websites, learning new techniques and applying them to my projects. I am currently enrolled in Zero to Mastery, where I'm learning more in depth about front end development, including advanced JavaScript and I am also learning some back-end development.
 
 * 🌍  I'm based in St. George, UT
 * 🖥️  See my portfolio at [My Portfolio](http://angela-sullivan-portfolio.netlify.app/)
