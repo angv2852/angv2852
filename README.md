@@ -1,4 +1,4 @@
-# Hi 👋 ! My name is Angela Sullivan - I love making single-page applications and responsive websites! 🧑‍💻
+# Hi! 👋 My name is Angela Sullivan - I love making single-page applications and responsive websites! 🧑‍💻
 
 Front-end Developer - Open for new opportunities
 -------------------
